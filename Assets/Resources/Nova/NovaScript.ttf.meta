@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3b67714d3aee50c43823282011ca4e7e
+timeCreated: 1517162875
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nova Script
+  fontNames:
+  - Nova Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

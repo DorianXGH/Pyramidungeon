@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af27ed98f6e8d8943a9fbdbad22f3d85
+timeCreated: 1517162875
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nova Cut
+  fontNames:
+  - Nova Cut
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
